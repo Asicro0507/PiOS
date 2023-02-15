@@ -9,7 +9,7 @@ To add your project to the list follow the instructions [here](/README.md)
 **To add a new row copy the formated line below, paste a copy onto the line below the last row of the Pi-OS contributions table and update it with your app's information**
 | Title | Description | Category | Programming Language/Framework | Updated by Pi-CT |Brainstorm link |
 
-| **Title**     | **Description**                                            | **Category**         | **Programming Language/Framework** | **Link To  Repo** | **Link to Pi Brainstorm** (if applicable) |
+| Digital Marketplace For Pi | This platform provides a solution that makes it easy for anyone to buy and sell digital products paid with Pi.                                       | Consumer Utility | JavaScript JS, CSS, PHP, SQL | demo | pi://brainstorm.pi/project/63da2773d6e7d2e3af856b41 |
 |---------------|------------------------------------------------------------|----------------------|------------------------------------|-------------------|---------------------------|
 | (Example) | (Write a description here about what the code achieves) | (See options above) | (Ruby/Rails, Python/Django, JS/React, etc.)        | TBD             |                           |
 | Pi SDK for Python | Python version of the Pi SDK for making App2Pioneer Payments   | SDK | Python        | [pi-python](https://github.com/pi-apps/pi-python)             |                           |
@@ -39,7 +39,7 @@ To add your project to the list follow the instructions [here](/README.md)
 - (Propose a new category if needed)
 
 
-| **Title**     | **Description**                                            | **Category**         | **Programming Language/Framework** | **Link To  Repo** | **Link to Pi Brainstorm** | **Link to Testnet App** | **Link to Mainnet App** |
+| Digital Marketplace For Pi | This platform provides a solution that makes it easy for anyone to buy and sell digital products paid with Pi.                                       | Consumer Utility | JavaScript JS, CSS, PHP, SQL | demo | pi://brainstorm.pi/project/63da2773d6e7d2e3af856b41 | https://pimoon.io | https://pimoon.io |
 |---------------|------------------------------------------------------------|----------------------|------------------------------------|-------------------|---------------------------|-------------------------|-------------------------|
 | (Example) | (Write a description here about what the code achieves) | (See options above) | (Ruby/Rails, Python/Django, JS/React, etc.)        | TBD             |                           | (When available)        | (When available)        |
 | Demo | This application showcases the authentication and payment functionalities of the Pi SDK. | Consumer Utility | Typescript/React, Node.js/Express, MongoDB | [demo](https://github.com/pi-apps/demo) | N/A | [pi://demo.pi](pi://demo.pi) | N/A |
